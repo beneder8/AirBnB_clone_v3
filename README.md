@@ -1,1 +1,1 @@
-# AirBnB Clone - The Console
+0x02. AirBnB clone - MySQL
